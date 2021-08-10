@@ -18,8 +18,6 @@ run npm i install to install node packages, create your MySQL database, run your
 Used as a database for a manager of an e-commerce website.
 ## Contributors
 Jackson LeMasters
-## Test
-N/A
 ## Repository
 - [Project Repo](github.com/jacklemasters/Ecommerce-backend)
 ## GitHub
