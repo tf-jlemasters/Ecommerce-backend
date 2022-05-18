@@ -2,7 +2,7 @@
 # **E-Commerce Back End Website**
 
 ## Description 
-A back end used for an e-commerce website using the latest technologies.
+A back end used for an e-commerce website using the latest technologies. Repository has been forked from my original GitHub account.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
